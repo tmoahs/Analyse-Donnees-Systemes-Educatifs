@@ -1,12 +1,10 @@
-# Projet 2 : Analyse de Données de Systèmes Éducatifs
+Analyse de Données de Systèmes Éducatifs
 
 ### Objectif & Résultat Principal
 
 Réalisation d’une analyse exploratoire (EDA) complète sur des données de systèmes éducatifs mondiaux. Le projet a impliqué le nettoyage, la manipulation (Pandas) et l'analyse univariée des données. L'analyse a abouti à la **construction d'un score composite** pour évaluer et classer les pays selon leurs performances éducatives.
 
 ---
-
-Ce projet est le deuxième du parcours Data Scientist d'OpenClassrooms. L'objectif est de réaliser une analyse exploratoire complète sur un jeu de données, en utilisant le langage Python et les librairies fondamentales de la Data Science.
 
 ### Contexte
 
